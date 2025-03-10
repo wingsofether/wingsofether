@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/hacker.gif" width="400px">
   <br>
-  <em>"Learning by breaking things, one system at a time"</em>
+  <em>"spellcaster irl"</em>
 </div>
 
 <div align="center">
