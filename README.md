@@ -20,7 +20,7 @@
 
 ## 🚀 About My Journey
 
-I'm a passionate enthusiast in system internals and software manipulation. Through dedicated practice and continuous learning in kernel development and game hacking, I've built a solid foundation in these fascinating domains. My areas of focus include:
+I'm deeply passionate about system internals and software manipulation. Through continuous learning and hands-on practice in kernel development and game hacking, I've built a strong foundation in these fascinating fields. My areas of focus include:
 
 ```python
 expertise = {
