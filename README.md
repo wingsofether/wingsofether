@@ -94,15 +94,15 @@ class SystemManipulation {
 ## 💡 Active Projects
 
 ### System Analysis
-- Memory manipulation implementation
-- Process injection research
-- Anti-cheat system study
-- Custom overlay development
+- Memory manipulation
+- Process injection
+- Anti-cheat systems
+- Custom overlays
 
 ### Kernel Operations
 - Driver development
 - Kernel memory manipulation
-- Windows internals exploration
+- Windows internals
 - System security research
 
 ## 🖥️ Development Environment
