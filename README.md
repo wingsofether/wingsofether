@@ -51,9 +51,7 @@ expertise = {
 
 </div>
 
-## 🌟 Current Projects
-
-### 🎮 Game Enhancement Development
+## 🎮 Game Enhancement Development
 ```cpp
 class SystemManipulation {
     private:
