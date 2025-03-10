@@ -18,7 +18,7 @@
 
 </div>
 
-## 🚀 About My Journey
+## 🚀 About me (mememememee)
 
 I'm deeply passionate about system internals and software manipulation. Through continuous learning and hands-on practice in kernel development and game hacking, I've built a strong foundation in these fascinating fields. My areas of focus include:
 
