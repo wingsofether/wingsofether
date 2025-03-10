@@ -73,24 +73,6 @@ class SystemManipulation {
 };
 ```
 
-### 🔐 Kernel Development
-```text
-                    User Mode
-                        ↓
-╔══════════════════════════════════════════╗
-║             Ring 3 → Ring 0              ║
-║                                          ║
-║    Working With:                         ║
-║    • Driver Development                  ║
-║    • Memory Operations                   ║
-║    • System Calls                        ║
-║    • Protection Analysis                 ║
-║                                          ║
-╚══════════════════════════════════════════╝
-                        ↓
-                 Hardware Layer
-```
-
 ## 💡 Active Projects
 
 ### System Analysis
